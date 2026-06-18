@@ -20,7 +20,7 @@ def get_engine():
     logging.info(f"Conectando em {host}:5432/{database}")
     return create_engine(
         # a função quote_plus trata a senha pra evitar que caracteres especiais quebrem o código
-        f"postgresql+psycopg2://{user}:{quote_plus(password)}@{host}:5432/{database}"
+        f"postgresql+psycopg2://{user}:{password}@{host}:5432/{database}"
     )
 
 engine = get_engine()
