@@ -22,7 +22,7 @@ config/.env
 
 # VSCode
 .vscode/
-
+ 
 # OS
 .DS_Store
 Thumbs.db

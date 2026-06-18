@@ -286,4 +286,4 @@ Melhorias planejadas para futuras versões:
 
 Engenheira de Dados | Professora e Criadora de Conteúdo na @Jornada de Dados | D.E creator na @Nekt | Fundadora e CEO do @Dados por Todos | Youtube
 
-Projeto desenvolvido com foco em aprendizado prático de Engenharia de Dados, simulando uma arquitetura ETL utilizada em ambientes corporativos.
+Projeto desenvolvido com foco em aprendizado prático de Engenharia de Dados, simulando uma arquitetura ETL utilizada em ambientes corporativos .
