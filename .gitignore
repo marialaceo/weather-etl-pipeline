@@ -1,9 +1,28 @@
-.venv/
-.env
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
+# Virtual Environment
+.venv/
+venv/
+
+# Airflow
+logs/
+airflow-webserver.pid
+
+# Data Files
+data/*.json
+data/*.parquet
+
+# Environment Variables
+.env
+config/.env
+
+# VSCode
 .vscode/
-main.py
-/data/*
-
+ 
+# OS
+.DS_Store
+Thumbs.db
